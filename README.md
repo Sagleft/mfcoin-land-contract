@@ -1,2 +1,9 @@
-# mfcoin-land-contract
-Freeland NVS Contract
+# MFCoin Land Contract
+
+NVS-контракт на приобретение реальной земли гражданами и резидентами Freeland.
+
+Первый в своем роде проект в Метаполисе Фриленд.
+
+1. [Спецификация контракта](specification.md)
+2. [Сервисы, использующие контракт](services.md)
+3. [Авторы](authors.md)
