@@ -7,3 +7,9 @@ NVS-контракт на приобретение реальной земли �
 1. [Спецификация контракта](specification.md)
 2. [Сервисы, использующие контракт](services.md)
 3. [Авторы](authors.md)
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
